@@ -63,6 +63,7 @@
             <a href="#logout">LogOut</a>
           </li></ul>
           <li><a href="#resources-used">Resources Used</a></li>
+          <li><a href="#sources-of-the-datasets">Sources of the Datasets</a></li>
           <li><a href="#useful-links">Useful Links</a></li>
           <li><a href="#support-and-contact">Support and Contact</a></li>
 
@@ -242,7 +243,17 @@ Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in
     <hr>
 [(Back to top)](#table-of-contents)
 
-   
+### Sources of the datasets 
+
+1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+3. [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
+4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
+5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
+<hr>
+
+[(Back to top)](#table-of-contents)
+
     
 
 ## Useful Links
