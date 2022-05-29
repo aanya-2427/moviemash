@@ -89,14 +89,13 @@ moviemash is a web application developed for Microsoft Engage 2022. As a part of
 ### Built With
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-It is used for building the recommendation engine and <br>
+It is used for data processing for the recommendation engine  <br>
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 It is used in integrating the python code with frontend part.<br>
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
- It<br>
+ These are used for styling the website(frontend).<br>
 ![API](https://img.shields.io/badge/Backend-Firebase-pink)
- It<br>
-![API](https://img.shields.io/badge/API-TMDB-fcba03)<hr>
+ It is used for stroing the registered user's credentials(email).<br>
 
 
 
