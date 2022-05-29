@@ -209,7 +209,7 @@ After searching the movie,get the details of the top cast of the searched movie 
 
 ### Recommendation
 
-Get a list of 10  recommended movies based on the movies searched at that time.Thsi recommendation is done by using the content based filtering on the movies data. Click on those movies to search about them and get their details
+Get a list of 10  recommended movies based on the movies searched at that time.This recommendation is done by using the content based filtering on the movies data. Click on those movies to search about them and get their details
 
 <img src="ReadMe_images/ss6.png" alt="Recommended movies screen" width="700"/>
 
