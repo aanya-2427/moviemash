@@ -177,7 +177,7 @@ git clone https://github.com/Aanya74282/moviemash-Engage2022.git
 
 Sign-Up feature to the web application by providing credentials (name, email and password).
 
-<img src="ReadMe_images/ss/s1.png" alt="Sign-Up screen" width="700"/>
+<img src="ReadMe_images/ss/ss1.png" alt="Sign-Up screen" width="700"/>
 
 ### Sign-In
 
