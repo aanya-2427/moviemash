@@ -244,9 +244,9 @@ Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in
 
 ## Useful Links
 
-- [Demo Video](////////////////////////////////////////)
-- [Sprint Document](///////////////////////////////////)
-- [Design Document](/////////////////////////////////)
+- [Demo Video](/////)
+- [Sprint Document](https://docs.google.com/presentation/d/1ZL2xV9rMHPZQO7wU06dyqFe26BF8vZiAmNdZpumXXU8/edit?usp=sharing)
+- [Design Document](https://docs.google.com/document/d/1D6yE0ieLOIxPs4cC8u-yhh3XCi_-mHArPNS_o6m7qFU/edit?usp=sharing)
     
     <hr>
     
