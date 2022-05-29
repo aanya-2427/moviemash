@@ -1,7 +1,7 @@
 # moviemash - Movie Recommending Web App
 ## Submission for Microsoft Engage 2022 🌟
     
-<!-- TABLE OF CONTENTS -->
+# TABLE OF CONTENTS
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -95,7 +95,7 @@ It is used in integrating the python code with frontend part.<br>
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
  These are used for styling the website(frontend).<br>
 ![API](https://img.shields.io/badge/Backend-Firebase-pink)
- It is used for stroing the registered user's credentials(email).<hr>
+ It is used for stroing the registered user's credentials(email).<hr>[(Back to top)](#table-of-contents)
 
 
 
@@ -117,7 +117,7 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 
 * Sprint 3 (May 12- May 24): Software development and debugging - Started the development process by taking help from medium blogs, Youtube tutorials. Built a web application after the initial prototype using Python, Flask and HTML,CSS and JS for frontend, Firebase for storage of data. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing.
 
-* Sprint 4 (May 24-May 27): Debugging and adding additional features. Decided to build the recommendation engine using content-based filtering by using similarity score and cosine similairty which recommends movie based on the movie that user searched at that time.Made required changes to integrate the frontend part. Added sign in authentication using Firebase. Also added sentiment analysis of the user reviews by scrapping them from IMDB site.<hr>
+* Sprint 4 (May 24-May 27): Debugging and adding additional features. Decided to build the recommendation engine using content-based filtering by using similarity score and cosine similairty which recommends movie based on the movie that user searched at that time.Made required changes to integrate the frontend part. Added sign in authentication using Firebase. Also added sentiment analysis of the user reviews by scrapping them from IMDB site.<hr>[(Back to top)](#table-of-contents)
 
 
 ### Behind the Recommendation Engine
@@ -132,7 +132,7 @@ How does it decide which item is most similar to the item user likes? Here come 
 
 It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
 ### Cosine Similarity
-Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.<hr>
+Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.<hr>[(Back to top)](#table-of-contents)
 
 
 
@@ -169,7 +169,7 @@ git clone https://github.com/Aanya74282/moviemash-Engage2022.git
 7. Yayy! Your site is deployed now.
     
     <hr>
-
+[(Back to top)](#table-of-contents)
 
 ## Navigating Through The App
 ### Sign-Up
@@ -226,7 +226,7 @@ Get a list of movies which are displayed by calling API and display them in decr
 
 Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in, sign-up page.
 
-<img src="Images/Video-Call-Welcome-Screen.png" alt="video call welcome screen" width="700"/><hr>
+<img src="Images/Video-Call-Welcome-Screen.png" alt="video call welcome screen" width="700"/><hr>[(Back to top)](#table-of-contents)
 
     
     
@@ -239,7 +239,7 @@ Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in
 * [How to use flask to render HTML templates medium blog.](https://medium.com/codex/how-to-serve-html-pages-using-flask-and-jinja-597f0157c298)
  * [How to use firebase for user authentication youtube tutorial](https://www.youtube.com/watch?v=qYER6hAgJik)
  * [How to use extract data from API youtube tutorial](https://medium.com/nerd-for-tech/extracting-data-from-an-api-using-python-38e9fbd2525c)
-    <hr>
+    <hr>[(Back to top)](#table-of-contents)
     
 
 ## Useful Links
@@ -248,11 +248,12 @@ Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in
 - [Sprint Document](https://docs.google.com/presentation/d/1ZL2xV9rMHPZQO7wU06dyqFe26BF8vZiAmNdZpumXXU8/edit?usp=sharing)
 - [Design Document](https://docs.google.com/document/d/1D6yE0ieLOIxPs4cC8u-yhh3XCi_-mHArPNS_o6m7qFU/edit?usp=sharing)
     
-    <hr>
+    <hr>[(Back to top)](#table-of-contents)
     
 ## Support and Contact
 Email To: aanya44556@gmail.com
 <br/>
+[(Back to top)](#table-of-contents)
 
 
     
