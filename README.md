@@ -43,6 +43,9 @@
         <li>
             <a href="#sign-in">Sign-In</a>
           </li>
+           <li>
+               <a href="#home">Home</a>
+          </li>
         <li>
             <a href="#search">Search</a>
           </li>
@@ -186,6 +189,12 @@ Sign-Up feature to the web application by providing credentials (name, email and
 Sign-In using your email and password registered to the web application  which are saved in firebase.
 
 <img src="ReadMe_images/ss1.png" alt="Sign-In screen" width="700"/>
+
+### Home
+The Home window appears where the users can search for the desired movies, scroll through their favourite movies  sorted according to their genres.
+
+<img src="ReadMe_images/ss10.png" alt="Home screen" width="700"/>
+
 
 ### Search 
 
