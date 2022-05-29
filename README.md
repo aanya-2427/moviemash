@@ -189,7 +189,7 @@ Sign-In using your email and password registered to the web application  which a
 
 ### Search 
 
-  After logging in, a search input appers where one can search the desired movie from the auto-generated list of movies according to the typed letters.
+ After logging in, a search input appears where one can search the desired movie with the autocomplete feature and get all the information like title,genres,release etc about that movie..
 
 <img src="ReadMe_images/ss3.png" alt="Search Window" width="700"/>
 
@@ -202,7 +202,7 @@ Get the details of the searched movie like title, genre, runtime,rating,poster,e
 
 ### Cast-info
 
-Get the details of the top castof the searched movie and on clicking the know more button which appears on hovering over them , get infromation about them. 
+After searching the movie,get the details of the top cast of the searched movie and on clicking the know more button which appears on hovering over them , get information about them. 
 
 <img src="ReadMe_images/ss5.png" alt="Cast info screen" width="700"/>
 
@@ -215,7 +215,7 @@ Get a list of 10  recommended movies based on the movies searched at that time.T
 
 ### Sentiment Analysis
 
-Get the sentiment analysis of the user reviews which are scraped from IMDB site.
+Get the sentiment analysis of the user reviews who have already wathced the movie which are scraped from IMDB site.
 
 <img src="ReadMe_images/ss7.png" alt="SEntiment analysis for user reviews screen" width="700"/>
 
