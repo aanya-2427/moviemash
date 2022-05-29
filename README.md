@@ -96,7 +96,7 @@ It is used in integrating the python code with frontend part.<br>
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
  These are used for styling the website(frontend).<br>
 ![API](https://img.shields.io/badge/Backend-Firebase-pink)
- It is used for stroing the registered user's credentials(email).<hr>[(Back to top)](#table-of-contents)
+ It is used for storing the registered user's credentials(email).<hr>[(Back to top)](#table-of-contents)
 
 
 
