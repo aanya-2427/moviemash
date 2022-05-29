@@ -167,7 +167,7 @@ git clone https://github.com/Aanya74282/moviemash-Engage2022.git
 
 
 
-2. Install all the libraries mentioned in the [requirements.txt](//////////////) file with the command `pip install -r requirements.txt`
+2. Install all the libraries mentioned in the [requirements.txt]file with the command `pip install -r requirements.txt`
 3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
 4. Replace YOUR_API_KEY in **both** the places (line no. 15 and 35) of `static/recommend.js` file,in line no.8 of `api.js` and hit save.
 5. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
@@ -269,7 +269,7 @@ Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in
 
 ## Useful Links
 
-- [Demo Video](/////)
+- [Demo Video](https://www.canva.com/design/DAFCGYwNtwE/287BLgqHZRq7XHB5eow5gA/watch?utm_content=DAFCGYwNtwE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - [Sprint Document](https://docs.google.com/presentation/d/1ZL2xV9rMHPZQO7wU06dyqFe26BF8vZiAmNdZpumXXU8/edit?usp=sharing)
 - [Design Document](https://docs.google.com/document/d/1D6yE0ieLOIxPs4cC8u-yhh3XCi_-mHArPNS_o6m7qFU/edit?usp=sharing)
     
