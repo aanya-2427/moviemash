@@ -141,13 +141,13 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ## Getting Started
 To install and run the project on your local system, following are the requirements:
 ### Prerequisites
-Get your `API` key for further steps. Do so by following the steps mentioned below.
+1.Get your `API` key for further steps. Do so by following the steps mentioned below.
 
-1.Create an account in https://www.themoviedb.org/.
-2.Click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key. 
-3.If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your `API` sidebar once your request is approved.
+Create an account in https://www.themoviedb.org/.<br>
+Click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key.<br> 
+If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your `API` sidebar once your request is approved.<br>
 
-Install python in your system , if not installed already by selecting according to your system from https://www.python.org/downloads/ site.
+2.Install python in your system , if not installed already by selecting according to your system from https://www.python.org/downloads/ site.
 
 ## Installation
 To use this project, follow the steps below:
