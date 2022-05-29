@@ -1,5 +1,5 @@
 # moviemash - Movie Recommending Web App
-<img src="ReadMe_images/ss.png" alt="Sign-Up screen" width="700"/>
+<img src="ReadMe_images/logo3.png" alt="Sign-Up screen" width="700"/>
 
 ## Submission for Microsoft Engage 2022 🌟
     
