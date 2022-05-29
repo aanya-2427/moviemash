@@ -1,4 +1,6 @@
 # moviemash - Movie Recommending Web App
+<img src="ReadMe_images/ss.png" alt="Sign-Up screen" width="700"/>
+
 ## Submission for Microsoft Engage 2022 🌟
     
 # TABLE OF CONTENTS
@@ -183,51 +185,51 @@ Sign-Up feature to the web application by providing credentials (name, email and
 
 Sign-In using your email and password registered to the web application  which are saved in firebase.
 
-<img src="ReadMe_images/ss1.png" alt="login screen" width="700"/>
+<img src="ReadMe_images/ss1.png" alt="Sign-In screen" width="700"/>
 
 ### Search 
 
   After logging in, a search input appers where one can search the desired movie from the auto-generated list of movies according to the typed letters.
 
-<img src="ReadMe_images/ss3.png" alt="blank chat window" width="700"/>
+<img src="ReadMe_images/ss3.png" alt="Search Window" width="700"/>
 
 
 ### Movie-info
 
 Get the details of the searched movie like title, genre, runtime,rating,poster,etc which are fetched using an API by TMDB.
 
-<img src="ReadMe_images/ss4.png" alt="video call welcome screen" width="700"/>
+<img src="ReadMe_images/ss4.png" alt="Movie details screen " width="700"/>
 
 ### Cast-info
 
 Get the details of the top castof the searched movie and on clicking the know more button which appears on hovering over them , get infromation about them. 
 
-<img src="ReadMe_images/ss5.png" alt="video call welcome screen" width="700"/>
+<img src="ReadMe_images/ss5.png" alt="Cast info screen" width="700"/>
 
 
 ### Recommendation
 
 Get a list of 10  recommended movies based on the movies searched at that time.Thsi recommendation is done by using the content based filtering on the movies data. Click on those movies to search about them and get their details
 
-<img src="ReadMe_images/ss6.png" alt="video call welcome screen" width="700"/>
+<img src="ReadMe_images/ss6.png" alt="Recommended movies screen" width="700"/>
 
 ### Sentiment Analysis
 
 Get the sentiment analysis of the user reviews which are scraped from IMDB site.
 
-<img src="ReadMe_images/ss7.png" alt="video call welcome screen" width="700"/>
+<img src="ReadMe_images/ss7.png" alt="SEntiment analysis for user reviews screen" width="700"/>
 
 ### Movies by Genre
 
 Get a list of movies which are displayed by calling API and display them in decraesing order of popularity.
 
-<img src="ReadMe_images/ss8.png" alt="video call welcome screen" width="700"/>
+<img src="ReadMe_images/ss8.png" alt="Movies displayed by genre using API screen" width="700"/>
 
 ### LogOut
 
 Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in, sign-up page.
 
-<img src="ReadMe_images/ss9.png" alt="video call welcome screen" width="700"/><hr>[(Back to top)](#table-of-contents)
+<img src="ReadMe_images/ss9.png" alt="Logout alert screen" width="700"/><hr>[(Back to top)](#table-of-contents)
 
     
     
