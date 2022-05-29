@@ -164,7 +164,7 @@ git clone https://github.com/Aanya74282/moviemash-Engage2022.git
 
 2. Install all the libraries mentioned in the [requirements.txt](//////////////) file with the command `pip install -r requirements.txt`
 3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
-4. Replace YOUR_API_KEY in **both** the places (line no. 15 and 29) of `static/recommend.js` file,in line no.8 of `api.js` and hit save.
+4. Replace YOUR_API_KEY in **both** the places (line no. 15 and 35) of `static/recommend.js` file,in line no.8 of `api.js` and hit save.
 5. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
 6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 7. Yayy! Your site is deployed now.
