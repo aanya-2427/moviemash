@@ -117,13 +117,13 @@ Agile is a development methodology adopted today in the software industry. Agile
 SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
 
 
-* Sprint 1 (May 4-May 8): <strong>Sprint Planning and Research- </strong> - Researching about what is recommendation engine, whar its types, how it works, what are the agorithms that streaming platfroms like Netflix,Spotify use for their recommendation engine.
+* Sprint 1 (May 4-May 8): <strong>Sprint Planning and Research - </strong> Researching about what is recommendation engine, whar its types, how it works, what are the agorithms that streaming platfroms like Netflix,Spotify use for their recommendation engine.
 
-* Sprint 2( May 8- May 12):<strong>Design phase-</strong> (if needed) for implementing recommendation agorithm.  After finalizing the algorithm to be used for recommendation ,I searched for tutorials, designed a wireframe including the functionalities I want and designed the UI.Build a basic prototype of the web application.
+* Sprint 2( May 8- May 12):<strong>Design phase -</strong> Various libraries(if needed) for implementing recommendation agorithm.  After finalizing the algorithm to be used for recommendation ,I searched for tutorials, designed a wireframe including the functionalities I want and designed the UI.Build a basic prototype of the web application.
 
-* Sprint 3 (May 12- May 24): <strong>Build phase-</strong>- Started the development process by taking help from medium blogs, Youtube tutorials. Built a web application after the initial prototype using Python, Flask and HTML,CSS and JS for frontend, Firebase for storage of data. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing.
+* Sprint 3 (May 12- May 24): <strong>Build phase -</strong> Started the development process by taking help from medium blogs, Youtube tutorials. Built a web application after the initial prototype using Python, Flask and HTML,CSS and JS for frontend, Firebase for storage of data. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing.
 
-* Sprint 4 (May 24-May 27): <strong>Testing Phase-</strong>Debugging and adding additional features. Decided to build the recommendation engine using content-based filtering by using similarity score and cosine similairty which recommends movie based on the movie that user searched at that time.Made required changes to integrate the frontend part. Added sign in authentication using Firebase. Also added sentiment analysis of the user reviews by scrapping them from IMDB site.<hr>[(Back to top)](#table-of-contents)
+* Sprint 4 (May 24-May 27): <strong>Testing Phase -</strong>Debugging and adding additional features. Decided to build the recommendation engine using content-based filtering by using similarity score and cosine similairty which recommends movie based on the movie that user searched at that time.Made required changes to integrate the frontend part. Added sign in authentication using Firebase. Also added sentiment analysis of the user reviews by scrapping them from IMDB site.<hr>[(Back to top)](#table-of-contents)
 
 
 ### Behind the Recommendation Engine
