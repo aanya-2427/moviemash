@@ -71,7 +71,7 @@
      
  
   </ol>
-</details>
+</details><hr>
 
 
 
@@ -95,7 +95,7 @@ It is used in integrating the python code with frontend part.<br>
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
  These are used for styling the website(frontend).<br>
 ![API](https://img.shields.io/badge/Backend-Firebase-pink)
- It is used for stroing the registered user's credentials(email).<br>
+ It is used for stroing the registered user's credentials(email).<hr>
 
 
 
@@ -125,25 +125,15 @@ How does the recommendation system behind the application works? What algorithms
 
  
 ### Content Based Filtering
+Content-based Filtering analyses the nature of each item and aims to find the insights of the data to identify the user preferences. Basically content recommenders rely on item features to make recommendations. Examples of this features include User generated tags on movies, Item color, Text description, User review of an item, Genre, Director, Description, Actors of a Movie etc. The general idea behind these recommender systems is that if a person likes a particular item, he or she will also like an item that is similar to it. In other words, these algorithms try to recommend items that are similar to those that a user liked in the past. This can be seen in applications like Netflix, Facebook Watch which recommend the next movie or video based on the Director, Hero etc. In this post I have used Content-based Filtering to find the recommendations of the movies. The recommendation system build with title, cast, director, keywords, genres features in the dataset.
 
+### Similarity Score
+How does it decide which item is most similar to the item user likes? Here come the similarity scores.
 
-### Salient Features
-* User authentication using Firebase 
-* Search a movie and get its details like title,genre,runtime,rating,poster
-* Recommending movies based on the searched movie at that time
+It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
+### Cosine Similarity
+Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.<hr>
 
-
-### Built With
-
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-It is used for building the recommendation engine and <br>
-![Framework](https://img.shields.io/badge/Framework-Flask-red)
-It is used in integrating the python code with frontend part.<br>
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
- It<br>
-![API](https://img.shields.io/badge/Backend-Firebase-pink)
- It<br>
-![API](https://img.shields.io/badge/API-TMDB-fcba03)<hr>
 
 
 <!-- INSTALLATIONS -->
