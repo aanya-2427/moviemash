@@ -239,7 +239,10 @@ Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in
 * [How to use flask to render HTML templates medium blog.](https://medium.com/codex/how-to-serve-html-pages-using-flask-and-jinja-597f0157c298)
  * [How to use firebase for user authentication youtube tutorial](https://www.youtube.com/watch?v=qYER6hAgJik)
  * [How to use extract data from API youtube tutorial](https://medium.com/nerd-for-tech/extracting-data-from-an-api-using-python-38e9fbd2525c)
-    <hr>[(Back to top)](#table-of-contents)
+    <hr>
+[(Back to top)](#table-of-contents)
+
+   
     
 
 ## Useful Links
@@ -248,7 +251,9 @@ Click on LOGOUT in navigation bar to log out and it will redirect to the sign-in
 - [Sprint Document](https://docs.google.com/presentation/d/1ZL2xV9rMHPZQO7wU06dyqFe26BF8vZiAmNdZpumXXU8/edit?usp=sharing)
 - [Design Document](https://docs.google.com/document/d/1D6yE0ieLOIxPs4cC8u-yhh3XCi_-mHArPNS_o6m7qFU/edit?usp=sharing)
     
-    <hr>[(Back to top)](#table-of-contents)
+    <hr>
+    
+[(Back to top)](#table-of-contents)
     
 ## Support and Contact
 Email To: aanya44556@gmail.com
